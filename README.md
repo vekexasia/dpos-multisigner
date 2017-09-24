@@ -1,6 +1,8 @@
 # dpos-multisigner
 [![npm](https://img.shields.io/npm/l/dpos-multisigner.svg?style=flat-square)](https://www.npmjs.com/package/dpos-multisigner)
-
+[![npm](https://img.shields.io/npm/v/dpos-multisigner.svg?style=flat-square)](https://www.npmjs.com/package/dpos-multisigner) 
+[![npm](https://img.shields.io/npm/dt/dpos-multisigner.svg?style=flat-square)](https://www.npmjs.com/package/dpos-multisigner)
+ 
 **dpos-multisigner** Is a toolkit to ease multisign transaction offline co-signing.
 
 The tool is written in TypeScript but is then transpiled to ES5. 
@@ -57,7 +59,7 @@ npm run build
 chmod +x dist/multisign.js
 ```
 
-Consume it like:
+Then you can consume it:
 
 ```bash
 $ ./dist/multisign.js co-sign --node http://testnet.lisk.io:7000 --msigaddress 3015669565792622155L
@@ -65,5 +67,10 @@ $ ./dist/multisign.js co-sign --node http://testnet.lisk.io:7000 --msigaddress 3
 
 ## About
 
-This little node project was developed by Andrea <vekexasia> Baccega as a request from `corsaro`.
+This little node project was developed by Andrea (`vekexasia`) Baccega as a request from `corsaro`.
 
+**Donations** are very welcome :) 
+
+ - **LISK**: 9102643396261850794L
+ - **SHIFT**: 16159457535471071047S
+ - **RISE**: 9857707766596718725R
