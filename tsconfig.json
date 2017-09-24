@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    // ... other options omitted
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "outDir": "dist",
+    "lib": [
+      "dom",
+      "es5",
+      "es2015.promise"
+    ]
+  }
+}
