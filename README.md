@@ -8,6 +8,15 @@ The tool is written in TypeScript but is then transpiled to ES5.
 ## Requirements
  - node.js - v4 or newer
  
+## Coins supported
+
+This tool currently supports the following crypto currencies: 
+
+ - LISK
+ - RISE
+ - SHIFT
+ - RISE
+ 
 ## Installation
 
 ### Consuming as library
